@@ -1,0 +1,7 @@
+The breach we worked on was the stuxnet virus. It would spread around the world and check if it was at a certain control system. if it was not it wouldn't do anything, but if it was it would copy the normal display info, and display normal info while destroying centrifuges.
+
+The worm was an attack on iranian nuclear facilities, designed to destroy centrifuges to slow down their nuclear weapon development.
+
+The flaws were that they inserted a usb drive into sensitive control systems.
+
+they probably don't insert usb drives into control systems anymore.
